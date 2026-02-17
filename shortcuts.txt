@@ -1,0 +1,2 @@
+fn = f1 for command palette
+
